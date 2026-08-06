@@ -150,8 +150,3 @@ ROI-THE-LEGAL-APP/
 
 ---
 
-## License & Intellectual Property
-
-This repository is published exclusively for educational review, architectural assessment, and portfolio evaluation. Unauthorized replication, redistribution, commercialization, or modifications of this source code are strictly prohibited without written consent from the author.
-
-*Developed by [Sriram S](https://github.com/SriramGandhiS).[solairajan s](https://github.com/Solairajan1509)*
